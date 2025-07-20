@@ -1,0 +1,16 @@
+{
+  "id": "lesson1",
+  "title": {
+    "en": "Python Variables",
+    "fa": "متغیرها در پایتون"
+  },
+  "steps": [
+    {
+      "instruction": {
+        "en": "Your cousin wants to divide 10 cups of chai among guests. Create a variable `cups` with value 10.",
+        "fa": "کاکایت می‌خواهد ۱۰ پیاله چای را بین مهمان‌ها تقسیم کند. یک متغیر به‌نام `cups` با مقدار ۱۰ بسازید."
+      },
+      "answer": "cups = 10"
+    }
+  ]
+}

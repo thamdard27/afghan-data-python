@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    direction: ltr;
+}
+body[lang="fa"] {
+    direction: rtl;
+    text-align: right;
+}
+#lesson-container {
+    margin-top: 20px;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 8px;
+}
